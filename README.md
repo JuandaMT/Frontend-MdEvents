@@ -1,8 +1,8 @@
 # FRONTED - Proyecto final de Bootcamp
+![Banner MdEvents](https://github.com/JuandaMT/Frontend-MdEvents/assets/130000511/64ae9f37-bcea-4dd2-98fc-37bf1c453d6a)
 
 <a name="top"></a>
 
-<div style="text-align:center"><img src="src/assets/readme/desafio-intro.png" width="300" height="300"></div>
 
  <h1 align="center" style="color:red">Desafío de tripulaciones</h1>
 
